@@ -20,6 +20,4 @@ While making these, I practiced:
 * strings
 * basic problem solving
 
-At first, conditional statements felt confusing, but once I started writing the logic myself, things started making a lot more sense. Slowly realizing that coding is less about syntax and more about thinking logically step by step. Tiny progress, but still progress. Humanity runs on if else decisions anyway.
-
-#Python #Coding #Programming #PythonBeginner #100DaysOfCode #DeveloperJourney #LearningByBuilding #IfElse #ProblemSolving #CodingJourney #Tech #BeginnerCoder
+At first, conditional statements felt confusing, but once I started writing the logic myself, things started making a lot more sense. Slowly realizing that coding is less about syntax and more about thinking logically step by step. Tiny progress, but still progress.
